@@ -4,7 +4,8 @@ bin/
 .metadata/
 .classpath
 .project
+.cache
 *.class
 *.tmp
+fabut4scala.iml
 .idea
-*.iml
